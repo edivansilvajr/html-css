@@ -1,3 +1,3 @@
 # html-css
 
- Estou aprendendo a criar sites e agora vou gerenciar meu repoditório
+ Estou aprendendo a criar sites e agora vou gerenciar meu repositório
